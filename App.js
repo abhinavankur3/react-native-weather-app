@@ -15,7 +15,7 @@ import {StyleSheet, View, Text} from 'react-native';
 const App = () => {
   return (
     <View style={styles.App}>
-      <Text>Abhinav Ankur</Text>
+      <Text>Hello!!! Abhinav Ankur</Text>
     </View>
   );
 };
